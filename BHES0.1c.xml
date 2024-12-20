@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>BHES</name>
+      <longname>BauhiniaTable</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Surreptitious Meeting</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Mill a card. You may play that card from your graveyard until your next end step.</text>
+    </card>
+    <card>
+      <name>Talonwing Countess</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Noble  // </type>
+        <maintype>Creature</maintype>
+    <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Talonwing Countess gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Rewrite</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature spell.
+Revise. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Oldport Sleuths</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Detective </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Oldport Sleuths enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Mirrorcube Manipulation</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Petaldance</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Fireglass Enthusiast</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fireglass Enthusiast enters, study. (Put a lore counter on an enchantment you control or discard a card to draw a card.)
+Whenever an Invention you control reaches {V}, you may draw a card. If you do, discard a card.</text>
+    </card>
+    <card>
+      <name>Ornithopter Exosegments</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I, II, C — Up to one target creature gains flying until end of turn.
+Up to one target creature gets +2/+2 and gains flying until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Fandancer Courtesan</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Advisor  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate every blossom you control simultaneously.)
+--- 
+Tap up to one target creature.</text>
+    </card>
+    <card>
+      <name>Greatpond Croak</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Greatpond Croak enters, conjure a Petal token into your hand.  (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Tengu Galerider</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Tengu Galerider gets +2/+0 as long as you’ve discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Silvermane Wyrm</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Wyrm </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, flying
+Silvermane Wyrm can attack as though it didn’t have defender as long as you’ve discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Cloudgazer Shrine Maiden</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}. This mana can’t be spent to cast permanent spells.</text>
+    </card>
+    <card>
+      <name>Essence Warp</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature spell.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Wiltsong</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Wiltsong enters, tap enchanted creature.
+Enchanted creature loses all abilities and doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Waterwaltz</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gets -4/-0 until end of turn.
+• Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Gustdraw Retainer</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell has flash if you pay {1} more to cast it.
+Gustdraw Retainer gets +1/+1 if you’ve cast a noncreature spell this turn.</text>
+    </card>
+    <card>
+      <name>Peer Through Stars</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+Put up to one target card from your graveyard on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Long Days &amp; Longer Nights</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Study (Put a lore counter on an enchantment you control or discard a card to draw a card.)
+If an Invention you control reached {V} this turn, study again</text>
+    </card>
+    <card>
+      <name>Spiritwind Cyclone</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card or pay {2}.
+Return target nonland permanent to its owner’s hand. Draw a card.</text>
+    </card>
+    <card>
+      <name>Restrain Beast</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block, its activated abilities can’t be activated, and its triggered abilities can’t be triggered.</text>
+    </card>
+    <card>
+      <name>Windwhistle Bells</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I, II — Up to one target creature gains vigilance until end of turn.
+C — Up to one target creature gets +2/+2 and gains vigilance end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Sabre of the Pink Rose</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate every blossom you control simultaneously.)
+--- 
+This creature gets +1/+0 and gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Urgent News</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Untap all creatures you control. Soldiers and Samurai you control get +1/+1 until end of turn.
+• Creatures you control get +1/+1 until end of turn. Untap all Soldiers and Samurai you control.</text>
+    </card>
+    <card>
+      <name>Cherrybranch Sprites</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Faerie  // </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Up to one other target creature gets +1/+1 and gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Oldguard Thousandpalm</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Soldier  // </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oldguard Thousandpalm enters, creatures you control blossom. (Without paying the cost.)
+--- 
+Until your next turn, Oldguard Thousandpalm can block an additional creature each combat.          </text>
+    </card>
+    <card>
+      <name>Roofpoint Drifters</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Roofpoint Drifters has flying as long as a creature you control with power greater than its base power is attacking.</text>
+    </card>
+    <card>
+      <name>Water&apos;s Edge Adept</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Water’s Edge Adept enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+Whenever a creature you control with power greater than its base power attacks, tap up to one target creature.       </text>
+    </card>
+    <card>
+      <name>Silversheet Sanctifiers</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Silversheet Sanctifiers enters the battlefield, destroy up to one target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Kill big guy</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with toughness 4 or greater.
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Greater Purrpaw</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with exactly two creatures, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Junkwing Cadet</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Junkwing Cadet gets +1/+1 as long as you control an artifact or an enchantment.</text>
+    </card>
+    <card>
+      <name>Tuftear Traveller</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fox Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tuftear Traveller enters, study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+Tuftear Traveller gets +1/+1 as long as an Invention you control reached {V} this turn.</text>
+    </card>
+    <card>
+      <name>Softplume Officer</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Soldier Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+As long as you control exactly two attacking creatures, they each get +1/+0.</text>
+    </card>
+    <card>
+      <name>Silversheet Cleansing</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or enchantment.
+Put up to one target card from your graveyard on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Leaping Strike</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1 and gains flying until end of turn.
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Bladeflower</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Bladeflower deals 3 damage to target attacking or blocking creature.
+Activate all your blossom abilities.</text>
+    </card>
+    <card>
+      <name>Roundhorn Clouddancer</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Roundhorn Clouddancer enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Bushtail Maiden</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Raccoon Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Bushtail Maiden enters, put up to one target card from your graveyard on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Shrimeleon</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach</text>
+    </card>
+    <card>
+      <name>Eccentric Company</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 2/2 green Raccoon creature token.
+You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Morningglow Branchling</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Morningglow Branchling enters, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>A Confrontation</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you don’t control. Untap it.
+Target creature gets +2/+1 until end of turn and must be blocked by chosen creature this turn if able.</text>
+    </card>
+    <card>
+      <name>Farsea Culturophile</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Farsea Culturophile enters, look at the top five cards of your library. You may reveal a nonland permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>Martial Triplets</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+This creature gets +3/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Tuftear Disciple</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tuftear Disciple enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Goldleaf Edge</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Goldleaf Edge gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>An Arrow, Loosed</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with flying.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Fieldwork Inspections</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+You may play an additional land this turn.</text>
+    </card>
+    <card>
+      <name>Moment of Reprieve</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Toast to Old Spring</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Activate all your blossom abilities.
+Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Lightningblade Technique</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I, II — Up to one target creature gains trample until end of turn.
+C — Up to one target creature gets +2/+2 and gains trample until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Fallpool Maiden</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell with mana value 5 or greater, you gain 2 life.
+{T}: Add one mana of any colour.</text>
+    </card>
+    <card>
+      <name>Meadowbloom Howl</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Meadowbloom Howl enters, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Siltherchant Priest</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Monk  // </type>
+        <maintype>Creature</maintype>
+    <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Siltherchant Priest enters, return up to one target permanent card from your graveyard to your hand.
+--- 
+Slitherchant Priest gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Eighttail Medium</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fox Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Eighttail Medium enters, conjure two Strength tokens into your hand. (They’re sorceries that cost {2} with “Target creature gets +2/+1 until end of turn.”)
+Whenever a creature you control with power greater than its base power attacks, it gains trample until end of turn. </text>
+    </card>
+    <card>
+      <name>Magnificate</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+1 until end of turn.
+Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Petalguard</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains hexproof until end of turn. Prevent all damage that would be dealt to that creature this turn.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Romanticist Bladework</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I, II — Up to one target creature gains first strike until end of turn.
+C — Up to one target creature gets +2/+1 and gains first strike until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Red Daisy Blade</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Red Daisy Blade gets +1/+1 and gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Bloomscale Serpent</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Serpent  // </type>
+        <maintype>Creature</maintype>
+    <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+This creature gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Overprepared Freshman</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Overprepared Freshman enters, study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Whitemane Wildclaw</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf Warrior  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Whitemane Wildclaw gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Powderpetals</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Powderpetals deals 3 damage to any target.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Springwhirl Dance</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Springwhirl Dance, discard a card.
+Draw two cards.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Intimidation Tactics</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Creatures you control gain menace until end of turn.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Veranda Vaulter</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Veranda Vaulter gets +2/+0 as long as you’ve cast two or more spells this turn.</text>
+    </card>
+    <card>
+      <name>Rageform</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+1 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Embercloud Brute</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Embercloud Brute enters, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Tuftear Governor</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Fox Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tuftear Governor enters, mill a card. You may play that card from your graveyard until your next end step.</text>
+    </card>
+    <card>
+      <name>Fogstreet Speedster</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever one or more cards leave your graveyard, Fogstreet Speedster gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Greyalley Lumographer</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Detective </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Greyalley Lumographer enters, you may return an instant, sorcery or artifact card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Shorthop Celebrant</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rabbit Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shorthop Celebrant gets +1/+1 as long as you’ve discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Snapflare</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Snapflare deals 5 damage to target creature.
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Let Loose</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 until end of turn.
+Activate all your blossom abilities.</text>
+    </card>
+    <card>
+      <name>Bloom of Inner Fire</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Dripblade Retainer</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Final Bloom</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Activate all your blossom abilities.
+You may sacrifice a creature. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>Mask thing</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I, II — Up to one target creature gains menace until end of turn.
+C — Up to one target creature gets +2/+2 and gains menace until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Rotting Ronin</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rotting Ronin enters the battlefield tapped.
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Rotting Ronin gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Thoughtgraft</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Soulstitch</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gains indestructible until end of turn.
+• Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Whiteglove Guard</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you lose 1 life and draw a card.
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+This creature and up to one other target creature each get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Slitherchant</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+1 and gains deathtouch until end of turn.
+Create a 1/1 green Snake creature token with deathtouch.</text>
+    </card>
+    <card>
+      <name>Moonveil Softplume</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Moonveil Softplume enters the battlefield, choose one —
+• Target opponent discards a card.
+• Target opponent sacrifices an enchantment.</text>
+    </card>
+    <card>
+      <name>Ritual of Dancing Paper</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creatures each get +2/+1 until end of turn. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Crimson Nectar</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player loses 2 life and you gain 2 life.
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Darkshot Assassin</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Darkshot Assassin enters, it gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Smotherthorns</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)
+Target creature gets -X/-X until end of turn, where X is the number of cards put into your hand this turn. (Drawing and conjuring cards into your hand count.)</text>
+    </card>
+    <card>
+      <name>Drown in the Sea</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target creature with toughness 3 or less.
+Up to one target player can’t activate abilities of creatures they control until your next end step.</text>
+    </card>
+    <card>
+      <name>Lanternwood Priestess</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lanternwood Priestess enters, you may discard a card. When you do, target opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Vulpishade</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Fox Shade </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you gain life, conjure a Strength token into your hand. This ability triggers only once each turn. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Scrutinous Retainer</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you attack with exactly two creatures, those creatures gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Darkmane Patriarch</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, if you put two or more cards into your hand this turn, up to two target creatures each get +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Skeletal Resupply</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.
+Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Plumed Effigy</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Scarecrow </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any colour.
+{2}, {T}: Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Bloomwhirl Retainer</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell has flash as long as you’ve cast another spell this turn.
+This creature gets +1/+1 and has flying as long as you’ve cast two or more spells this turn.</text>
+    </card>
+    <card>
+      <name>Dramatic Captain</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever you attack with exactly two creatures, Dramatic Captain gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Veteran&apos;s Daisho</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+1.
+Equip Samurai or Soldier {1}
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Gardencourt Sharptongue</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Snake Advisor  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Add GU if this is the first time this ability has resolved this turn. Otherwise, draw a card.</text>
+    </card>
+    <card>
+      <name>Serpent of Southcliff</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Serpent of Southcliff enters, draw two cards.</text>
+    </card>
+    <card>
+      <name>Chaffslice Delegate</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Advisor  // </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, activate all your blossom abilities.
+--- 
+Each opponent loses 1 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Oldguard Patrol</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with exactly two creatures, those creatures each get +1/+1 until end of turn.
+Other Samurai &amp; Soldiers you control have ward {1}.</text>
+    </card>
+    <card>
+      <name>Newforce Bloomshot</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fox Soldier  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Samurai or Soldier you control attacks, it gains first strike until end of turn.
+--- 
+Up to two target creatures each get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Heartbleed Courtier</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Heartbleed Courtier attacks, it gets +X/+0, where X is the amount of life you gained this turn.</text>
+    </card>
+    <card>
+      <name>Newforce Stormbarrel</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Newforce Stormbarrel enters, if you cast another spell this turn, tap up to one target creature and put a stun counter on it.
+Whenever you cast your second spell each turn, Newforce Stormbarrel deals 2 damage to target opponent.      </text>
+    </card>
+    <card>
+      <name>Polypetal Savant</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Monk  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Polypetal Savant enters, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)
+--- 
+Conjure a Petal token into your hand.</text>
+    </card>
+    <card>
+      <name>Prattletooth Archivist</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rat Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prattletooth Archivist enters, mill a card. You may play that card from your graveyard until your next end step.
+Whenever one or more cards leave your graveyard, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Pinkrose Heartcatch</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fox Citizen  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pinkrose Heartcatch enters, mill a card. You may play that card from your graveyard until your next end step.
+--- 
+Put up to one target card from your graveyard on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Glasslens Sleuth</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Detective </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Glasslens Sleuth gets +1/+1 as long as you control an artifact or an enchantment.
+Glasslens Sleuth can’t be blocked as long as an Invention you control reached {V} this turn.</text>
+    </card>
+    <card>
+      <name>Wizened Tinkerer</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact and enchantment spells you cast cost {1} less to cast.
+--- 
+You may study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Ghostcreek Haunt</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Ghostcreek Haunt: Draw a card.
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Return Ghostcreek Haunt from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Softplume Cloudrunner</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Softplume Cloudrunner gets +2/+0 as long as you’ve put two or more cards into your hand this turn. (Drawing and conjuring cards into your hand count.)</text>
+    </card>
+    <card>
+      <name>Eastport Sellshot</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mercenary  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+You may discard a card. If you do, Eastport Sellshot deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Gorefield Samurai</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fox Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gorefield Samurai enters, it fights up to one target creature.
+As long as Gorefield Samurai is attacking or fighting, it gets +2/+0 for each card you’ve discarded this turn.</text>
+    </card>
+    <card>
+      <name>Lightningblade Adept</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Other creatures you control gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Lotuspond Howlghast</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Wolf Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever one or more creatures you control with trample deals combat damage to an opponent, create a 2/2 green Wolf creature token.</text>
+    </card>
+    <card>
+      <name>Westshrine Bladedancer</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control with power greater than their base power have vigilance.
+Whenever one or more creatures you control with power greater than their base power deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Gardencourt Trainee</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+Gardencourt Trainee and up to one other target creature each get +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Games of Chance</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Discard your hand.
+I — Draw two cards.
+II — Whenever you cast a nontoken spell this turn, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Sparkbarrel Aficionado</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sparkbarrel Aficionado enters, you may discard a card. If you do, Sparkbarrel Aficionado deals 4 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Giganpalm Maiden</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Giganpalm Maiden enters, you may study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+Giganpalm Maiden gets +2/+2 &amp; has trample as long as an Invention you control reached {V} this turn.</text>
+    </card>
+    <card>
+      <name>Tuftear Shortblade</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fox Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Tuftear Shortblade gets +1/+1 as long as you’ve cast two or more spells this turn.</text>
+    </card>
+    <card>
+      <name>Cloudbreeze Challenger</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+You may untap target creature you don’t control. If you do, that creature blocks Cloudbreeze Challenger this turn if able.</text>
+    </card>
+    <card>
+      <name>Dookgear Duchess</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dookgear Duchess enters, you may study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+{T}, Exile a creature card from your graveyard: Create a tapped 1/1 red Ferret artifact creature token.</text>
+    </card>
+    <card>
+      <name>Enlightened Greatmane</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6R</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Cat  // </type>
+        <maintype>Creature</maintype>
+    <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Interservice Rivalry</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep and whenever a creature enters under your control, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+Whenever you cast a noncreature spell, target creature you control gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Pyroblossom</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Activate all your blossom abilities.
+Choose up to one target creature you control. It gets +2/+1 until end of turn.
+Pyroblossom deals 2 damage to each other creature.</text>
+    </card>
+    <card>
+      <name>Echo Ember</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As long as you’ve cast another spell not named Echo Ember this turn and this card is in your graveyard, it has flashback 2R. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Echo Ember deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Vision of Inferno</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or land.
+Mill a card. You may play that card from your graveyard until your next end step.</text>
+    </card>
+    <card>
+      <name>Veil of Spring</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creature spells you control and abilities of creatures you control can’t be countered this turn.
+Creatures you control gain hexproof until end of turn.
+If it’s your turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Urbanization</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Invention </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I, II — Reveal cards from the top of your library until you reveal a land card. Put that card on top and the rest on the bottom of your library in a random order.
+C — Draw a card.
+You may play an additional land this turn.</text>
+    </card>
+    <card>
+      <name>Skittering Stratagem</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Activate all your blossom abilities.
+Creatures you control get +0/+3 and gain reach until end of turn.</text>
+    </card>
+    <card>
+      <name>Viperwhip</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you control. It deals damage equal to its power to another target creature you don’t control.
+If the chosen creature has power greater than its base power, draw a card.</text>
+    </card>
+    <card>
+      <name>Sacredgrove Guardian</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast Spirit  // </type>
+        <maintype>Creature</maintype>
+    <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you gain 3 life and conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)
+--- 
+This creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Cyflox Spectre</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Fox Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Other creatures you control with trample get +1/+1.</text>
+    </card>
+    <card>
+      <name>Brightlake Caller</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Brightlake Caller enters, reveal cards from the top of your library until you reveal a card with mana value 5 or greater. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Longpipe Aesthete</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+Whenever a creature you control with power greater than its base power attacks, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Bloombranch Quencher</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+When this creature enters, if you gained 3 or more life this turn, return up to one target permanent card in your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Asheye Marauder</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, deathtouch
+At the beginning of your end step, if you control a creature with power greater than its base power, you may conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+    </card>
+    <card>
+      <name>Thousandbud Cadet</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one or both —
+• You gain 2 life.
+• Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Farsea Rascals</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, target opponent reveals their hand. You choose a nonland card from that player’s graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.</text>
+    </card>
+    <card>
+      <name>Geistpetal Drifter</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this creature enters, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)
+Whenever this creature attacks, you may discard a card. If you do, this creature gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Carve</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Conjure two Strength tokens into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+Destroy target creature or planeswalker if its mana value is less than or equal to the number of cards in your hand.</text>
+    </card>
+    <card>
+      <name>Quell</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures your opponents control get -1/-1 until end of turn.
+Soldiers and Samurai you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>To Hell And Back</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. It gains haste until end of turn.
+When you attack with exactly two creatures this turn, you gain 3 life and creatures you control gain indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Duskguard Cutthroat</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, you may pay {3} to activate all your blossom abilities.
+--- 
+This creature gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Shrinetithe Treasurer</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+At the beginning of your end step, if you gained life this turn, each opponent loses 1 life. If you gained 3 or more life this turn, draw a card. </text>
+    </card>
+    <card>
+      <name>Optimal Flowercard Strategies</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Thesis </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+I — Target opponent discards a card. If they didn’t discard a nontoken card, they lose 2 life.
+You draw a card and lose 1 life.
+II, L — Trigger either of this Thesis’s other chapter abilities.</text>
+    </card>
+    <card>
+      <name>Citizen of the Night</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your end step, if you put two or more cards into your hand this turn, each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Longtusk Magistrate</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Boar Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may discard a card. If you do, return target creature card from your graveyard to your hand.
+Whenever you discard a card, up to one target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Discredit</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Destroy target enchantment. If it was a Thesis, you gain 2 life.
+• Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Blades To Blooms</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Its controller conjures a Petal token into their hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>A Case For Compulsory Service</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Thesis </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+When this Thesis enters, create a 1/1 white Soldier creature token.
+Create a 1/1 white Soldier creature token.
+I, II, L — Creatures you control get +1/+1 until end of turn. Samurai and Soldiers you control get an additional +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Harbour Street Sentry</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Vigilance
+When this creature enters, up to one other target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Tuftear Remembrant</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Fox Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, exile up to one target card from your graveyard.
+Whenever one or more cards leave your graveyard, choose one —
+• This creature gets +1/+1 until end of turn.
+• Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)              </text>
+    </card>
+    <card>
+      <name>Cherrypeak Farseer</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature enters or attacks, put up to one target card from your graveyard on the bottom of your library.
+Whenever one or more cards leave your graveyard, up to one target creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dovechant</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 white Bird creature token with flying.
+2W: Put this card from your graveyard on the bottom of your library. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Roundhorn Scholar</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact and enchantment spells you cast cost {1} less to cast.
+Whenever the final chapter ability of an enchantment you control triggers, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Shorthop Veteran</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Rabbit Samurai  // </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+You choose if and how target creature blocks this turn.
+This creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Last Dance</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two target permanent cards from your graveyard to the battlefield if they each have mana value 2 or less or if you attacked with exactly two creatures this turn.</text>
+    </card>
+    <card>
+      <name>Mundane Breakthrough</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal cards from the top of your library until you reveal an artifact or enchantment card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Whenever an artifact or enchantment enters under your control, you may put this card from your graveyard on the bottom of your library. If you do, revise. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Consequences of Mass Print</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Thesis </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Draw a card.
+I, II — When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+C — Put a lore counter on any number of other target permanents you control.</text>
+    </card>
+    <card>
+      <name>Ashwing Parliament</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, you may revise up to twice. (To revise, put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Truebeak Revelation</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Until end of turn, target creature becomes a blue Bird with base power and toughness 4/4 and gains flying. (It loses all other creature types.)
+• Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.</text>
+    </card>
+    <card>
+      <name>Willshaper Maiden</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, tap or untap up to one target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Spellshatter</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if you cast another spell this turn.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Drizzlebloom Adept</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard  // </type>
+        <maintype>Creature</maintype>
+    <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, return up to one target creature to its owner’s hand.
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+You may return this creature to your hand. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Immaculate Performance</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature you control.
+Create a token that’s a copy of target creature you control.</text>
+    </card>
+    <card>
+      <name>Exhaust</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Revise. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+Tap all creatures target player controls. Those creatures don’t untap during that player’s next untap step.</text>
+    </card>
+    <card>
+      <name>Darkplume Shutterbug</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Detective </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, you may revise. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Gargantuan Groveback</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Turtle Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Strength</name>
+      <set>BHES</set>
+      <prop>
+        <colors></colors>
+        <type>Token Sorcery - Strength </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+1
+until end of turn.
+(A sorcery token that’s not in your hand or on the stack ceases to exist.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Petal</name>
+      <set>BHES</set>
+      <prop>
+        <colors></colors>
+        <type>Token Instant - Petal </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add one mana of any colour.
+(An instant token that’s not in your hand or on the stack ceases to exist.)</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

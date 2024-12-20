@@ -1,0 +1,2102 @@
+[CustomCards]
+	[    {
+	        "name": "Surreptitious Meeting",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Surreptitious Meeting.png"
+	        }
+	    },
+	    {
+	        "name": "Talonwing Countess",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Bird Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Talonwing Countess.png"
+	        },
+	        "printed names": {
+	            "en": "Talonwing Countess"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Rewrite",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Rewrite.png"
+	        }
+	    },
+	    {
+	        "name": "Oldport Sleuths",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Detective ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Oldport Sleuths.png"
+	        }
+	    },
+	    {
+	        "name": "Mirrorcube Manipulation",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Mirrorcube Manipulation.png"
+	        }
+	    },
+	    {
+	        "name": "Petaldance",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Petaldance.png"
+	        }
+	    },
+	    {
+	        "name": "Fireglass Enthusiast",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Azra Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Fireglass Enthusiast.png"
+	        }
+	    },
+	    {
+	        "name": "Ornithopter Exosegments",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Ornithopter Exosegments.png"
+	        }
+	    },
+	    {
+	        "name": "Fandancer Courtesan",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Fandancer Courtesan.png"
+	        },
+	        "printed names": {
+	            "en": "Fandancer Courtesan"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Greatpond Croak",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Greatpond Croak.png"
+	        }
+	    },
+	    {
+	        "name": "Tengu Galerider",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Tengu Galerider.png"
+	        }
+	    },
+	    {
+	        "name": "Silvermane Wyrm",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Wyrm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Silvermane Wyrm.png"
+	        }
+	    },
+	    {
+	        "name": "Cloudgazer Shrine Maiden",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Cloudgazer Shrine Maiden.png"
+	        }
+	    },
+	    {
+	        "name": "Essence Warp",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Essence Warp.png"
+	        }
+	    },
+	    {
+	        "name": "Wiltsong",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Wiltsong.png"
+	        }
+	    },
+	    {
+	        "name": "Waterwaltz",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Waterwaltz.png"
+	        }
+	    },
+	    {
+	        "name": "Gustdraw Retainer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Gustdraw Retainer.png"
+	        }
+	    },
+	    {
+	        "name": "Peer Through Stars",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Peer Through Stars.png"
+	        }
+	    },
+	    {
+	        "name": "Long Days & Longer Nights",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Long Days & Longer Nights.png"
+	        }
+	    },
+	    {
+	        "name": "Spiritwind Cyclone",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Spiritwind Cyclone.png"
+	        }
+	    },
+	    {
+	        "name": "Restrain Beast",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Restrain Beast.png"
+	        }
+	    },
+	    {
+	        "name": "Windwhistle Bells",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Windwhistle Bells.png"
+	        }
+	    },
+	    {
+	        "name": "Sabre of the Pink Rose",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Sabre of the Pink Rose.png"
+	        },
+	        "printed names": {
+	            "en": "Sabre of the Pink Rose"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Urgent News",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Urgent News.png"
+	        }
+	    },
+	    {
+	        "name": "Cherrybranch Sprites",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Cherrybranch Sprites.png"
+	        },
+	        "printed names": {
+	            "en": "Cherrybranch Sprites"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Oldguard Thousandpalm",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Oldguard Thousandpalm.png"
+	        },
+	        "printed names": {
+	            "en": "Oldguard Thousandpalm"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Roofpoint Drifters",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Roofpoint Drifters.png"
+	        }
+	    },
+	    {
+	        "name": "Water's Edge Adept",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Water's Edge Adept.png"
+	        }
+	    },
+	    {
+	        "name": "Silversheet Sanctifiers",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Silversheet Sanctifiers.png"
+	        }
+	    },
+	    {
+	        "name": "Kill big guy",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Kill big guy.png"
+	        }
+	    },
+	    {
+	        "name": "Greater Purrpaw",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Greater Purrpaw.png"
+	        }
+	    },
+	    {
+	        "name": "Junkwing Cadet",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Pilot ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Junkwing Cadet.png"
+	        }
+	    },
+	    {
+	        "name": "Tuftear Traveller",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Fox Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Tuftear Traveller.png"
+	        }
+	    },
+	    {
+	        "name": "Softplume Officer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Bird Soldier Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Softplume Officer.png"
+	        }
+	    },
+	    {
+	        "name": "Silversheet Cleansing",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Silversheet Cleansing.png"
+	        }
+	    },
+	    {
+	        "name": "Leaping Strike",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Leaping Strike.png"
+	        }
+	    },
+	    {
+	        "name": "Bladeflower",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Bladeflower.png"
+	        }
+	    },
+	    {
+	        "name": "Roundhorn Clouddancer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Azra Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Roundhorn Clouddancer.png"
+	        }
+	    },
+	    {
+	        "name": "Bushtail Maiden",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Raccoon Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Bushtail Maiden.png"
+	        }
+	    },
+	    {
+	        "name": "Shrimeleon",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Shrimeleon.png"
+	        }
+	    },
+	    {
+	        "name": "Eccentric Company",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Eccentric Company.png"
+	        }
+	    },
+	    {
+	        "name": "Morningglow Branchling",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Faerie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Morningglow Branchling.png"
+	        }
+	    },
+	    {
+	        "name": "A Confrontation",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/A Confrontation.png"
+	        }
+	    },
+	    {
+	        "name": "Farsea Culturophile",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Farsea Culturophile.png"
+	        }
+	    },
+	    {
+	        "name": "Martial Triplets",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Martial Triplets.png"
+	        },
+	        "printed names": {
+	            "en": "Martial Triplets"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Tuftear Disciple",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Fox Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Tuftear Disciple.png"
+	        }
+	    },
+	    {
+	        "name": "Goldleaf Edge",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Goldleaf Edge.png"
+	        },
+	        "printed names": {
+	            "en": "Goldleaf Edge"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "An Arrow, Loosed",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/An Arrow, Loosed.png"
+	        }
+	    },
+	    {
+	        "name": "Fieldwork Inspections",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Fieldwork Inspections.png"
+	        }
+	    },
+	    {
+	        "name": "Moment of Reprieve",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Moment of Reprieve.png"
+	        }
+	    },
+	    {
+	        "name": "Toast to Old Spring",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Toast to Old Spring.png"
+	        }
+	    },
+	    {
+	        "name": "Lightningblade Technique",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Lightningblade Technique.png"
+	        }
+	    },
+	    {
+	        "name": "Fallpool Maiden",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Fallpool Maiden.png"
+	        }
+	    },
+	    {
+	        "name": "Meadowbloom Howl",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Meadowbloom Howl.png"
+	        }
+	    },
+	    {
+	        "name": "Siltherchant Priest",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Azra Monk ",
+	        "image_uris": {
+	            "en": "Siltherchant Priest.png"
+	        },
+	        "printed names": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Siltherchant Priest"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Eighttail Medium",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Fox Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Eighttail Medium.png"
+	        }
+	    },
+	    {
+	        "name": "Magnificate",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Magnificate.png"
+	        }
+	    },
+	    {
+	        "name": "Petalguard",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Petalguard.png"
+	        }
+	    },
+	    {
+	        "name": "Romanticist Bladework",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Romanticist Bladework.png"
+	        }
+	    },
+	    {
+	        "name": "Red Daisy Blade",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Fox Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Red Daisy Blade.png"
+	        },
+	        "printed names": {
+	            "en": "Red Daisy Blade"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Bloomscale Serpent",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Serpent ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Bloomscale Serpent.png"
+	        },
+	        "printed names": {
+	            "en": "Bloomscale Serpent"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Overprepared Freshman",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Overprepared Freshman.png"
+	        }
+	    },
+	    {
+	        "name": "Whitemane Wildclaw",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Wolf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Whitemane Wildclaw.png"
+	        },
+	        "printed names": {
+	            "en": "Whitemane Wildclaw"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Powderpetals",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Powderpetals.png"
+	        }
+	    },
+	    {
+	        "name": "Springwhirl Dance",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Springwhirl Dance.png"
+	        }
+	    },
+	    {
+	        "name": "Intimidation Tactics",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Intimidation Tactics.png"
+	        }
+	    },
+	    {
+	        "name": "Veranda Vaulter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Veranda Vaulter.png"
+	        }
+	    },
+	    {
+	        "name": "Rageform",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Rageform.png"
+	        }
+	    },
+	    {
+	        "name": "Embercloud Brute",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Azra Berserker ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Embercloud Brute.png"
+	        }
+	    },
+	    {
+	        "name": "Tuftear Governor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Fox Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Tuftear Governor.png"
+	        }
+	    },
+	    {
+	        "name": "Fogstreet Speedster",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Pilot ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Fogstreet Speedster.png"
+	        }
+	    },
+	    {
+	        "name": "Greyalley Lumographer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Detective ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Greyalley Lumographer.png"
+	        }
+	    },
+	    {
+	        "name": "Shorthop Celebrant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Rabbit Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Shorthop Celebrant.png"
+	        }
+	    },
+	    {
+	        "name": "Snapflare",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Snapflare.png"
+	        }
+	    },
+	    {
+	        "name": "Let Loose",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Let Loose.png"
+	        }
+	    },
+	    {
+	        "name": "Bloom of Inner Fire",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Bloom of Inner Fire.png"
+	        }
+	    },
+	    {
+	        "name": "Dripblade Retainer",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Dripblade Retainer.png"
+	        },
+	        "printed names": {
+	            "en": "Dripblade Retainer"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Final Bloom",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Final Bloom.png"
+	        }
+	    },
+	    {
+	        "name": "Mask thing",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Mask thing.png"
+	        }
+	    },
+	    {
+	        "name": "Rotting Ronin",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Zombie Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Rotting Ronin.png"
+	        },
+	        "printed names": {
+	            "en": "Rotting Ronin"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Thoughtgraft",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Thoughtgraft.png"
+	        }
+	    },
+	    {
+	        "name": "Soulstitch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Soulstitch.png"
+	        }
+	    },
+	    {
+	        "name": "Whiteglove Guard",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Whiteglove Guard.png"
+	        },
+	        "printed names": {
+	            "en": "Whiteglove Guard"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Slitherchant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Slitherchant.png"
+	        }
+	    },
+	    {
+	        "name": "Moonveil Softplume",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Moonveil Softplume.png"
+	        }
+	    },
+	    {
+	        "name": "Ritual of Dancing Paper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Ritual of Dancing Paper.png"
+	        }
+	    },
+	    {
+	        "name": "Crimson Nectar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Crimson Nectar.png"
+	        }
+	    },
+	    {
+	        "name": "Darkshot Assassin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Darkshot Assassin.png"
+	        }
+	    },
+	    {
+	        "name": "Smotherthorns",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Smotherthorns.png"
+	        }
+	    },
+	    {
+	        "name": "Drown in the Sea",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Drown in the Sea.png"
+	        }
+	    },
+	    {
+	        "name": "Lanternwood Priestess",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Azra Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Lanternwood Priestess.png"
+	        }
+	    },
+	    {
+	        "name": "Vulpishade",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Fox Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Vulpishade.png"
+	        }
+	    },
+	    {
+	        "name": "Scrutinous Retainer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Azra Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Scrutinous Retainer.png"
+	        }
+	    },
+	    {
+	        "name": "Darkmane Patriarch",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Wolf Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Darkmane Patriarch.png"
+	        }
+	    },
+	    {
+	        "name": "Skeletal Resupply",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Skeletal Resupply.png"
+	        }
+	    },
+	    {
+	        "name": "Plumed Effigy",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Scarecrow ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Plumed Effigy.png"
+	        }
+	    },
+	    {
+	        "name": "Bloomwhirl Retainer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Bloomwhirl Retainer.png"
+	        }
+	    },
+	    {
+	        "name": "Dramatic Captain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Dramatic Captain.png"
+	        }
+	    },
+	    {
+	        "name": "Veteran's Daisho",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Veteran's Daisho.png"
+	        }
+	    },
+	    {
+	        "name": "Gardencourt Sharptongue",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Snake Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Gardencourt Sharptongue.png"
+	        },
+	        "printed names": {
+	            "en": "Gardencourt Sharptongue"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Serpent of Southcliff",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{U}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Serpent of Southcliff.png"
+	        }
+	    },
+	    {
+	        "name": "Chaffslice Delegate",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Chaffslice Delegate.png"
+	        },
+	        "printed names": {
+	            "en": "Chaffslice Delegate"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Oldguard Patrol",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Oldguard Patrol.png"
+	        }
+	    },
+	    {
+	        "name": "Newforce Bloomshot",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Fox Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Newforce Bloomshot.png"
+	        },
+	        "printed names": {
+	            "en": "Newforce Bloomshot"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Heartbleed Courtier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Azra Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Heartbleed Courtier.png"
+	        }
+	    },
+	    {
+	        "name": "Newforce Stormbarrel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Newforce Stormbarrel.png"
+	        }
+	    },
+	    {
+	        "name": "Polypetal Savant",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Polypetal Savant.png"
+	        },
+	        "printed names": {
+	            "en": "Polypetal Savant"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Prattletooth Archivist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Rat Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Prattletooth Archivist.png"
+	        }
+	    },
+	    {
+	        "name": "Pinkrose Heartcatch",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Fox Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Pinkrose Heartcatch.png"
+	        },
+	        "printed names": {
+	            "en": "Pinkrose Heartcatch"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Glasslens Sleuth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Human Detective ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Glasslens Sleuth.png"
+	        }
+	    },
+	    {
+	        "name": "Wizened Tinkerer",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Wizened Tinkerer.png"
+	        },
+	        "printed names": {
+	            "en": "Wizened Tinkerer"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Ghostcreek Haunt",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Ghostcreek Haunt.png"
+	        },
+	        "printed names": {
+	            "en": "Ghostcreek Haunt"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Softplume Cloudrunner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Softplume Cloudrunner.png"
+	        }
+	    },
+	    {
+	        "name": "Eastport Sellshot",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Human Mercenary ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Eastport Sellshot.png"
+	        },
+	        "printed names": {
+	            "en": "Eastport Sellshot"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Gorefield Samurai",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature — Fox Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Gorefield Samurai.png"
+	        }
+	    },
+	    {
+	        "name": "Lightningblade Adept",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Lightningblade Adept.png"
+	        },
+	        "printed names": {
+	            "en": "Lightningblade Adept"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Lotuspond Howlghast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{G}",
+	        "type": "Creature — Wolf Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Lotuspond Howlghast.png"
+	        }
+	    },
+	    {
+	        "name": "Westshrine Bladedancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — Azra Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Westshrine Bladedancer.png"
+	        }
+	    },
+	    {
+	        "name": "Gardencourt Trainee",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Gardencourt Trainee.png"
+	        },
+	        "printed names": {
+	            "en": "Gardencourt Trainee"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Games of Chance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Games of Chance.png"
+	        }
+	    },
+	    {
+	        "name": "Sparkbarrel Aficionado",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Sparkbarrel Aficionado.png"
+	        }
+	    },
+	    {
+	        "name": "Giganpalm Maiden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Giganpalm Maiden.png"
+	        }
+	    },
+	    {
+	        "name": "Tuftear Shortblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Fox Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Tuftear Shortblade.png"
+	        }
+	    },
+	    {
+	        "name": "Cloudbreeze Challenger",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Cloudbreeze Challenger.png"
+	        },
+	        "printed names": {
+	            "en": "Cloudbreeze Challenger"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Dookgear Duchess",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Dookgear Duchess.png"
+	        }
+	    },
+	    {
+	        "name": "Enlightened Greatmane",
+	        "mana_cost": "{6}{R}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Enlightened Greatmane.png"
+	        },
+	        "printed names": {
+	            "en": "Enlightened Greatmane"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Interservice Rivalry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Interservice Rivalry.png"
+	        }
+	    },
+	    {
+	        "name": "Pyroblossom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Pyroblossom.png"
+	        }
+	    },
+	    {
+	        "name": "Echo Ember",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Echo Ember.png"
+	        }
+	    },
+	    {
+	        "name": "Vision of Inferno",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Vision of Inferno.png"
+	        }
+	    },
+	    {
+	        "name": "Veil of Spring",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Veil of Spring.png"
+	        }
+	    },
+	    {
+	        "name": "Urbanization",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Invention ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Urbanization.png"
+	        }
+	    },
+	    {
+	        "name": "Skittering Stratagem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Skittering Stratagem.png"
+	        }
+	    },
+	    {
+	        "name": "Viperwhip",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Viperwhip.png"
+	        }
+	    },
+	    {
+	        "name": "Sacredgrove Guardian",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Beast Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Sacredgrove Guardian.png"
+	        },
+	        "printed names": {
+	            "en": "Sacredgrove Guardian"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Cyflox Spectre",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Fox Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Cyflox Spectre.png"
+	        }
+	    },
+	    {
+	        "name": "Brightlake Caller",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Brightlake Caller.png"
+	        }
+	    },
+	    {
+	        "name": "Longpipe Aesthete",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Azra Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Longpipe Aesthete.png"
+	        }
+	    },
+	    {
+	        "name": "Bloombranch Quencher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Bloombranch Quencher.png"
+	        }
+	    },
+	    {
+	        "name": "Asheye Marauder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Mercenary ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Asheye Marauder.png"
+	        }
+	    },
+	    {
+	        "name": "Thousandbud Cadet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Thousandbud Cadet.png"
+	        }
+	    },
+	    {
+	        "name": "Farsea Rascals",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Farsea Rascals.png"
+	        }
+	    },
+	    {
+	        "name": "Geistpetal Drifter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Geistpetal Drifter.png"
+	        }
+	    },
+	    {
+	        "name": "Carve",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Carve.png"
+	        }
+	    },
+	    {
+	        "name": "Quell",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Quell.png"
+	        }
+	    },
+	    {
+	        "name": "To Hell And Back",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/To Hell And Back.png"
+	        }
+	    },
+	    {
+	        "name": "Duskguard Cutthroat",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Duskguard Cutthroat.png"
+	        },
+	        "printed names": {
+	            "en": "Duskguard Cutthroat"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Shrinetithe Treasurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Fox Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Shrinetithe Treasurer.png"
+	        }
+	    },
+	    {
+	        "name": "Optimal Flowercard Strategies",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Thesis ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Optimal Flowercard Strategies.png"
+	        }
+	    },
+	    {
+	        "name": "Citizen of the Night",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Citizen of the Night.png"
+	        }
+	    },
+	    {
+	        "name": "Longtusk Magistrate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Boar Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Longtusk Magistrate.png"
+	        }
+	    },
+	    {
+	        "name": "Discredit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Discredit.png"
+	        }
+	    },
+	    {
+	        "name": "Blades To Blooms",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Blades To Blooms.png"
+	        }
+	    },
+	    {
+	        "name": "A Case For Compulsory Service",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Thesis ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/A Case For Compulsory Service.png"
+	        }
+	    },
+	    {
+	        "name": "Harbour Street Sentry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Harbour Street Sentry.png"
+	        }
+	    },
+	    {
+	        "name": "Tuftear Remembrant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Fox Mercenary ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Tuftear Remembrant.png"
+	        }
+	    },
+	    {
+	        "name": "Cherrypeak Farseer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Bird Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Cherrypeak Farseer.png"
+	        }
+	    },
+	    {
+	        "name": "Dovechant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Dovechant.png"
+	        }
+	    },
+	    {
+	        "name": "Roundhorn Scholar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Azra Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Roundhorn Scholar.png"
+	        }
+	    },
+	    {
+	        "name": "Shorthop Veteran",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Rabbit Samurai ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Shorthop Veteran.png"
+	        },
+	        "printed names": {
+	            "en": "Shorthop Veteran"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Last Dance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Last Dance.png"
+	        }
+	    },
+	    {
+	        "name": "Mundane Breakthrough",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Mundane Breakthrough.png"
+	        }
+	    },
+	    {
+	        "name": "Consequences of Mass Print",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Enchantment — Thesis ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Consequences of Mass Print.png"
+	        }
+	    },
+	    {
+	        "name": "Ashwing Parliament",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Bird Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Ashwing Parliament.png"
+	        }
+	    },
+	    {
+	        "name": "Truebeak Revelation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Truebeak Revelation.png"
+	        }
+	    },
+	    {
+	        "name": "Willshaper Maiden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Azra Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Willshaper Maiden.png"
+	        }
+	    },
+	    {
+	        "name": "Spellshatter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Spellshatter.png"
+	        }
+	    },
+	    {
+	        "name": "Drizzlebloom Adept",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Drizzlebloom Adept.png"
+	        },
+	        "printed names": {
+	            "en": "Drizzlebloom Adept"
+	        },
+	        "back": {
+	            "name": "           Blossom",
+	            "printed_names": {
+	                "en": "           Blossom"
+	            },
+	            "image_uris": {
+	                "en": "           Blossom.png"
+	            },
+	            "type": ""
+	        }
+	    },
+	    {
+	        "name": "Immaculate Performance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Immaculate Performance.png"
+	        }
+	    },
+	    {
+	        "name": "Exhaust",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Exhaust.png"
+	        }
+	    },
+	    {
+	        "name": "Darkplume Shutterbug",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird Detective ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Darkplume Shutterbug.png"
+	        }
+	    },
+	    {
+	        "name": "Gargantuan Groveback",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Turtle Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Gargantuan Groveback.png"
+	        }
+	    },
+	    {
+	        "name": "Strength",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Token Sorcery — Strength ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Strength.png"
+	        }
+	    },
+	    {
+	        "name": "Petal",
+	        "rarity": "rare",
+	        "mana_cost": "{0}",
+	        "type": "Token Instant — Petal ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/viola-mse/Bauhinia-Eternal-Spring/main/BHEs0.1c-files/Petal.png"
+	        }
+	    }
+	]
+	[UncommonSlot(4)]
+		50 Bloomwhirl Retainer
+		50 Dramatic Captain
+		50 Gardencourt Sharptongue
+		50 Serpent of Southcliff
+		50 Chaffslice Delegate
+		50 Oldguard Patrol
+		50 Newforce Bloomshot
+		50 Heartbleed Courtier
+		50 Newforce Stormbarrel
+		50 Polypetal Savant
+		50 Prattletooth Archivist
+		50 Pinkrose Heartcatch
+		50 Glasslens Sleuth
+		50 Wizened Tinkerer
+		50 Ghostcreek Haunt
+		50 Softplume Cloudrunner
+		50 Eastport Sellshot
+		50 Gorefield Samurai
+		50 Lightningblade Adept
+		50 Lotuspond Howlghast
+		50 Westshrine Bladedancer
+		50 Gardencourt Trainee
+		50 Games of Chance
+		50 Sparkbarrel Aficionado
+		50 Giganpalm Maiden
+		50 Tuftear Shortblade
+		50 Cloudbreeze Challenger
+		50 Dookgear Duchess
+		50 Enlightened Greatmane
+		50 Interservice Rivalry
+		50 Pyroblossom
+		50 Echo Ember
+		50 Vision of Inferno
+		50 Veil of Spring
+		50 Urbanization
+		50 Skittering Stratagem
+		50 Viperwhip
+		50 Sacredgrove Guardian
+		50 Cyflox Spectre
+		50 Brightlake Caller
+		50 Longpipe Aesthete
+		50 Bloombranch Quencher
+		50 Asheye Marauder
+		50 Thousandbud Cadet
+		50 Farsea Rascals
+		50 Geistpetal Drifter
+		50 Carve
+		50 Quell
+		50 To Hell And Back
+		50 Duskguard Cutthroat
+		50 Shrinetithe Treasurer
+		50 Optimal Flowercard Strategies
+		50 Citizen of the Night
+		50 Longtusk Magistrate
+		50 Discredit
+		50 Blades To Blooms
+		50 A Case For Compulsory Service
+		50 Harbour Street Sentry
+		50 Tuftear Remembrant
+		50 Cherrypeak Farseer
+		50 Dovechant
+		50 Roundhorn Scholar
+		50 Shorthop Veteran
+		50 Last Dance
+		50 Mundane Breakthrough
+		50 Consequences of Mass Print
+		50 Ashwing Parliament
+		50 Truebeak Revelation
+		50 Willshaper Maiden
+		50 Spellshatter
+		50 Drizzlebloom Adept
+		50 Immaculate Performance
+		50 Exhaust
+		50 Darkplume Shutterbug
+		50 Gargantuan Groveback
+	[CommonSlot(10)]
+		50 Surreptitious Meeting
+		50 Talonwing Countess
+		50 Rewrite
+		50 Oldport Sleuths
+		50 Mirrorcube Manipulation
+		50 Petaldance
+		50 Fireglass Enthusiast
+		50 Ornithopter Exosegments
+		50 Fandancer Courtesan
+		50 Greatpond Croak
+		50 Tengu Galerider
+		50 Silvermane Wyrm
+		50 Cloudgazer Shrine Maiden
+		50 Essence Warp
+		50 Wiltsong
+		50 Waterwaltz
+		50 Gustdraw Retainer
+		50 Peer Through Stars
+		50 Long Days & Longer Nights
+		50 Spiritwind Cyclone
+		50 Restrain Beast
+		50 Windwhistle Bells
+		50 Sabre of the Pink Rose
+		50 Urgent News
+		50 Cherrybranch Sprites
+		50 Oldguard Thousandpalm
+		50 Roofpoint Drifters
+		50 Water's Edge Adept
+		50 Silversheet Sanctifiers
+		50 Kill big guy
+		50 Greater Purrpaw
+		50 Junkwing Cadet
+		50 Tuftear Traveller
+		50 Softplume Officer
+		50 Silversheet Cleansing
+		50 Leaping Strike
+		50 Bladeflower
+		50 Roundhorn Clouddancer
+		50 Bushtail Maiden
+		50 Shrimeleon
+		50 Eccentric Company
+		50 Morningglow Branchling
+		50 A Confrontation
+		50 Farsea Culturophile
+		50 Martial Triplets
+		50 Tuftear Disciple
+		50 Goldleaf Edge
+		50 An Arrow, Loosed
+		50 Fieldwork Inspections
+		50 Moment of Reprieve
+		50 Toast to Old Spring
+		50 Lightningblade Technique
+		50 Fallpool Maiden
+		50 Meadowbloom Howl
+		50 Siltherchant Priest
+		50 Eighttail Medium
+		50 Magnificate
+		50 Petalguard
+		50 Romanticist Bladework
+		50 Red Daisy Blade
+		50 Bloomscale Serpent
+		50 Overprepared Freshman
+		50 Whitemane Wildclaw
+		50 Powderpetals
+		50 Springwhirl Dance
+		50 Intimidation Tactics
+		50 Veranda Vaulter
+		50 Rageform
+		50 Embercloud Brute
+		50 Tuftear Governor
+		50 Fogstreet Speedster
+		50 Greyalley Lumographer
+		50 Shorthop Celebrant
+		50 Snapflare
+		50 Let Loose
+		50 Bloom of Inner Fire
+		50 Dripblade Retainer
+		50 Final Bloom
+		50 Mask thing
+		50 Rotting Ronin
+		50 Thoughtgraft
+		50 Soulstitch
+		50 Whiteglove Guard
+		50 Slitherchant
+		50 Moonveil Softplume
+		50 Ritual of Dancing Paper
+		50 Crimson Nectar
+		50 Darkshot Assassin
+		50 Smotherthorns
+		50 Drown in the Sea
+		50 Lanternwood Priestess
+		50 Vulpishade
+		50 Scrutinous Retainer
+		50 Darkmane Patriarch
+		50 Skeletal Resupply
+		50 Plumed Effigy
+		50 Veteran's Daisho
