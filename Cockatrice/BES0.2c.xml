@@ -38,7 +38,7 @@ Mill a card. You may play that card from your graveyard until your next end step
       <text>Flying
 (Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
 --- 
-Talonwing Countess gets +1/+1 until end of turn.</text>
+This creature gets +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Rewrite</name>
@@ -106,11 +106,11 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
         <cmc>3</cmc>
         <type>Creature - Azra Citizen </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Fireglass Enthusiast enters, study. (Put a lore counter on an enchantment you control or discard a card to draw a card.)
-Whenever an Invention you control reaches {V}, you may draw a card. If you do, discard a card.</text>
+      <text>When this creature enters, revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)
+Once each turn, whenever the final chapter ability of a permanent you control resolves, draw a card.</text>
     </card>
     <card>
       <name>Ornithopter Exosegments</name>
@@ -119,13 +119,13 @@ Whenever an Invention you control reaches {V}, you may draw a card. If you do, d
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Invention </type>
+        <type>Enchantment - Thesis </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I, II, C — Up to one target creature gains flying until end of turn.
-Up to one target creature gets +2/+2 and gains flying until end of turn.
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Up to one target creature gets +1/+1 and gains flying until end of turn.
+You may discard a card to draw a card.
 ​</text>
     </card>
     <card>
@@ -156,7 +156,7 @@ Tap up to one target creature.</text>
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Greatpond Croak enters, conjure a Petal token into your hand.  (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+      <text>When this creature enters, conjure a Petal token into your hand.  (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
     </card>
     <card>
       <name>Tengu Galerider</name>
@@ -171,7 +171,7 @@ Tap up to one target creature.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Tengu Galerider gets +2/+0 as long as you’ve discarded a card this turn.</text>
+This creature gets +2/+1 as long as two or more cards entered your hand this turn. (Drawing and conjuring cards into your hand count.)</text>
     </card>
     <card>
       <name>Silvermane Wyrm</name>
@@ -186,7 +186,7 @@ Tengu Galerider gets +2/+0 as long as you’ve discarded a card this turn.</text
       </prop>
       <tablerow>2</tablerow>
       <text>Defender, flying
-Silvermane Wyrm can attack as though it didn’t have defender as long as you’ve discarded a card this turn.</text>
+This creature can attack as though it didn’t have defender as long as two or more cards entered your hand this turn or as long as you’ve cast two or more spells this turn. (Drawing and conjuring cards into your hand count.)     </text>
     </card>
     <card>
       <name>Cloudgazer Shrine Maiden</name>
@@ -228,7 +228,7 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-When Wiltsong enters, tap enchanted creature.
+When this enchantment enters, tap enchanted creature.
 Enchanted creature loses all abilities and doesn’t untap during its controller’s untap step.</text>
     </card>
     <card>
@@ -242,12 +242,11 @@ Enchanted creature loses all abilities and doesn’t untap during its controller
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one —
-• Target creature gets -4/-0 until end of turn.
-• Draw a card, then discard a card.</text>
+      <text>Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)
+Tap target creature. If two or more cards entered your hand this turn, that creature doesn’t untap during its controller’s next untap step. (Drawing and conjuring cards into your hand count.)</text>
     </card>
     <card>
-      <name>Gustdraw Retainer</name>
+      <name>Gustdraw Trainee</name>
       <set rarity="common">BHES</set>
       <prop>
         <colors>U</colors>
@@ -255,25 +254,11 @@ Enchanted creature loses all abilities and doesn’t untap during its controller
         <cmc>2</cmc>
         <type>Creature - Human Samurai </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>This spell has flash if you pay {1} more to cast it.
-Gustdraw Retainer gets +1/+1 if you’ve cast a noncreature spell this turn.</text>
-    </card>
-    <card>
-      <name>Peer Through Stars</name>
-      <set rarity="common">BHES</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>U</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Draw a card.
-Put up to one target card from your graveyard on the bottom of your library.</text>
+      <text>Flash
+Return this creature to your hand: Conjure a Strength token into your hand. Activate only as a sorcery. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Long Days &amp; Longer Nights</name>
@@ -286,21 +271,21 @@ Put up to one target card from your graveyard on the bottom of your library.</te
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Study (Put a lore counter on an enchantment you control or discard a card to draw a card.)
-If an Invention you control reached {V} this turn, study again</text>
+      <text>Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)
+If the final chapter ability of a permanent you control resolved this turn, you may put a lore counter on target permanent you control.</text>
     </card>
     <card>
       <name>Spiritwind Cyclone</name>
       <set rarity="common">BHES</set>
       <prop>
         <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, discard a card or pay {2}.
+      <text>This spell costs {2} less to cast if you cast another spell this turn.
 Return target nonland permanent to its owner’s hand. Draw a card.</text>
     </card>
     <card>
@@ -324,13 +309,13 @@ Enchanted creature can’t attack or block, its activated abilities can’t be a
         <colors>W</colors>
         <manacost>1W</manacost>
         <cmc>2</cmc>
-        <type>Enchantment - Invention </type>
+        <type>Enchantment - Thesis </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I, II — Up to one target creature gains vigilance until end of turn.
-C — Up to one target creature gets +2/+2 and gains vigilance end of turn.
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Up to one target creature gains vigilance until end of turn.
+Up to one target creature gets +2/+2 and gains vigilance end of turn.
 ​</text>
     </card>
     <card>
@@ -424,7 +409,7 @@ Roofpoint Drifters has flying as long as a creature you control with power great
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Water’s Edge Adept enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+      <text>When Water’s Edge Adept enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)
 Whenever a creature you control with power greater than its base power attacks, tap up to one target creature.       </text>
     </card>
     <card>
@@ -453,7 +438,7 @@ Whenever a creature you control with power greater than its base power attacks, 
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature with toughness 4 or greater.
-Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Greater Purrpaw</name>
@@ -496,8 +481,8 @@ Junkwing Cadet gets +1/+1 as long as you control an artifact or an enchantment.<
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Tuftear Traveller enters, study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
-Tuftear Traveller gets +1/+1 as long as an Invention you control reached {V} this turn.</text>
+      <text>When this creature enters, revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)
+This creature gets +1/+1 as long as the final chapter ability of a permanent you control resolved this turn.</text>
     </card>
     <card>
       <name>Softplume Officer</name>
@@ -515,20 +500,6 @@ Tuftear Traveller gets +1/+1 as long as an Invention you control reached {V} thi
 As long as you control exactly two attacking creatures, they each get +1/+0.</text>
     </card>
     <card>
-      <name>Silversheet Cleansing</name>
-      <set rarity="common">BHES</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>4W</manacost>
-        <cmc>5</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Exile target creature or enchantment.
-Put up to one target card from your graveyard on the bottom of your library.</text>
-    </card>
-    <card>
       <name>Leaping Strike</name>
       <set rarity="common">BHES</set>
       <prop>
@@ -540,7 +511,7 @@ Put up to one target card from your graveyard on the bottom of your library.</te
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +1/+1 and gains flying until end of turn.
-Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Bladeflower</name>
@@ -568,7 +539,7 @@ Activate all your blossom abilities.</text>
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Roundhorn Clouddancer enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+      <text>When Roundhorn Clouddancer enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Bushtail Maiden</name>
@@ -626,7 +597,7 @@ You gain 3 life.</text>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Morningglow Branchling enters, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+      <text>When this creature enters, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
     </card>
     <card>
       <name>A Confrontation</name>
@@ -640,7 +611,7 @@ You gain 3 life.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose target creature you don’t control. Untap it.
-Target creature gets +2/+1 until end of turn and must be blocked by chosen creature this turn if able.</text>
+Target creature gets +2/+2 until end of turn and must be blocked by chosen creature this turn if able.</text>
     </card>
     <card>
       <name>Farsea Culturophile</name>
@@ -654,7 +625,7 @@ Target creature gets +2/+1 until end of turn and must be blocked by chosen creat
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Farsea Culturophile enters, look at the top five cards of your library. You may reveal a nonland permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+      <text>When this creature enters, look at the top five cards of your library. You may reveal a nonland permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
     </card>
     <card>
       <name>Martial Triplets</name>
@@ -684,7 +655,7 @@ This creature gets +3/+3 until end of turn.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Tuftear Disciple enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+      <text>When this creature enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Goldleaf Edge</name>
@@ -700,7 +671,7 @@ This creature gets +3/+3 until end of turn.</text>
       <tablerow>2</tablerow>
       <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
 --- 
-Goldleaf Edge gains vigilance until end of turn.</text>
+This creature gains vigilance until end of turn.</text>
     </card>
     <card>
       <name>An Arrow, Loosed</name>
@@ -727,7 +698,7 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+      <text>Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)
 You may play an additional land this turn.</text>
     </card>
     <card>
@@ -742,7 +713,7 @@ You may play an additional land this turn.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target artifact or enchantment.
-Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Toast to Old Spring</name>
@@ -765,13 +736,13 @@ Look at the top five cards of your library. You may reveal a creature card from 
         <colors>G</colors>
         <manacost>1G</manacost>
         <cmc>2</cmc>
-        <type>Enchantment - Invention </type>
+        <type>Enchantment - Thesis </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I, II — Up to one target creature gains trample until end of turn.
-C — Up to one target creature gets +2/+2 and gains trample until end of turn.
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Up to one target creature gains trample until end of turn.
+Up to one target creature gets +2/+2 and gains trample until end of turn.
 ​</text>
     </card>
     <card>
@@ -802,10 +773,10 @@ C — Up to one target creature gets +2/+2 and gains trample until end of turn.
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When Meadowbloom Howl enters, you gain 2 life.</text>
+When this creature enters, you gain 2 life.</text>
     </card>
     <card>
-      <name>Siltherchant Priest</name>
+      <name>Slitherchant Priest</name>
       <set rarity="common">BHES</set>
       <prop>
         <colors>G</colors>
@@ -816,9 +787,9 @@ When Meadowbloom Howl enters, you gain 2 life.</text>
     <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Siltherchant Priest enters, return up to one target permanent card from your graveyard to your hand.
+      <text>When this creature enters, return up to one target permanent card from your graveyard to your hand.
 --- 
-Slitherchant Priest gains deathtouch until end of turn.</text>
+This creature gains deathtouch until end of turn.</text>
     </card>
     <card>
       <name>Eighttail Medium</name>
@@ -832,7 +803,7 @@ Slitherchant Priest gains deathtouch until end of turn.</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Eighttail Medium enters, conjure two Strength tokens into your hand. (They’re sorceries that cost {2} with “Target creature gets +2/+1 until end of turn.”)
+      <text>When this creature enters, conjure two Strength tokens into your hand. (They’re sorceries that cost {2} with “Target creature gets +2/+2 until end of turn.”)
 Whenever a creature you control with power greater than its base power attacks, it gains trample until end of turn. </text>
     </card>
     <card>
@@ -846,8 +817,8 @@ Whenever a creature you control with power greater than its base power attacks, 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control gets +2/+1 until end of turn.
-Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+      <text>Target creature you control gets +2/+2 until end of turn.
+Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Petalguard</name>
@@ -864,22 +835,6 @@ Study. (Put a lore counter on a permanent you control or discard a card to draw 
 Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
     </card>
     <card>
-      <name>Romanticist Bladework</name>
-      <set rarity="common">BHES</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment - Invention </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I, II — Up to one target creature gains first strike until end of turn.
-C — Up to one target creature gets +2/+1 and gains first strike until end of turn.
-​</text>
-    </card>
-    <card>
       <name>Red Daisy Blade</name>
       <set rarity="common">BHES</set>
       <prop>
@@ -893,7 +848,7 @@ C — Up to one target creature gets +2/+1 and gains first strike until end of t
       <tablerow>2</tablerow>
       <text>(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
 --- 
-Red Daisy Blade gets +1/+1 and gains first strike until end of turn.</text>
+This creature gets +1/+1 and gains first strike until end of turn.</text>
     </card>
     <card>
       <name>Bloomscale Serpent</name>
@@ -925,7 +880,7 @@ This creature gets +2/+0 until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-When Overprepared Freshman enters, study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+When this creature enters, revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Whitemane Wildclaw</name>
@@ -942,7 +897,7 @@ When Overprepared Freshman enters, study. (Put a lore counter on a permanent you
       <text>Menace
 (Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
 --- 
-Whitemane Wildclaw gets +2/+1 until end of turn.</text>
+This creature gets +2/+1 until end of turn.</text>
     </card>
     <card>
       <name>Powderpetals</name>
@@ -1000,7 +955,7 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Veranda Vaulter gets +2/+0 as long as you’ve cast two or more spells this turn.</text>
+      <text>This creature gets +2/+0 as long as you’ve cast two or more spells this turn.</text>
     </card>
     <card>
       <name>Rageform</name>
@@ -1027,7 +982,7 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Embercloud Brute enters, you may discard a card. If you do, draw a card.</text>
+      <text>When this creature enters, you may discard a card. If you do, draw a card.</text>
     </card>
     <card>
       <name>Tuftear Governor</name>
@@ -1041,7 +996,7 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Tuftear Governor enters, mill a card. You may play that card from your graveyard until your next end step.</text>
+      <text>When this creature enters, mill a card. You may play that card from your graveyard until your next end step.</text>
     </card>
     <card>
       <name>Fogstreet Speedster</name>
@@ -1056,7 +1011,7 @@ Conjure a Petal token into your hand. (It’s an instant that costs {0} with “
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-Whenever one or more cards leave your graveyard, Fogstreet Speedster gains first strike until end of turn.</text>
+This creature has first strike as long as one or more cards left your graveyard this turn.</text>
     </card>
     <card>
       <name>Greyalley Lumographer</name>
@@ -1070,7 +1025,7 @@ Whenever one or more cards leave your graveyard, Fogstreet Speedster gains first
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Greyalley Lumographer enters, you may return an instant, sorcery or artifact card from your graveyard to your hand.</text>
+      <text>When this creature enters, you may return an instant, sorcery or artifact card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Shorthop Celebrant</name>
@@ -1084,7 +1039,7 @@ Whenever one or more cards leave your graveyard, Fogstreet Speedster gains first
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Shorthop Celebrant gets +1/+1 as long as you’ve discarded a card this turn.</text>
+      <text>This creature gets +1/+1 as long as you’ve discarded a card this turn.</text>
     </card>
     <card>
       <name>Snapflare</name>
@@ -1098,7 +1053,7 @@ Whenever one or more cards leave your graveyard, Fogstreet Speedster gains first
       </prop>
       <tablerow>3</tablerow>
       <text>Snapflare deals 5 damage to target creature.
-Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Let Loose</name>
@@ -1126,7 +1081,7 @@ Activate all your blossom abilities.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)
-Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Conjure a Strength token into your hand.  (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Dripblade Retainer</name>
@@ -1159,19 +1114,19 @@ Each opponent loses 1 life and you gain 1 life.</text>
 You may sacrifice a creature. If you do, draw two cards.</text>
     </card>
     <card>
-      <name>Mask thing</name>
+      <name>Menace Thesis</name>
       <set rarity="common">BHES</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Invention </type>
+        <type>Enchantment - Thesis </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I, II — Up to one target creature gains menace until end of turn.
-C — Up to one target creature gets +2/+2 and gains menace until end of turn.
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Up to one target creature gains menace until end of turn.
+Up to one target creature gets +2/+2 and gains menace until end of turn.
 ​</text>
     </card>
     <card>
@@ -1186,10 +1141,10 @@ C — Up to one target creature gets +2/+2 and gains menace until end of turn.
     <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Rotting Ronin enters the battlefield tapped.
+      <text>This creature enters the battlefield tapped.
 (Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
 --- 
-Rotting Ronin gets +1/+1 until end of turn.</text>
+This creature gets +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Thoughtgraft</name>
@@ -1244,11 +1199,11 @@ This creature and up to one other target creature each get +1/+1 until end of tu
         <colors>B</colors>
         <manacost>2B</manacost>
         <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control gets +2/+1 and gains deathtouch until end of turn.
+      <text>Each opponent loses 2 life.
 Create a 1/1 green Snake creature token with deathtouch.</text>
     </card>
     <card>
@@ -1264,7 +1219,7 @@ Create a 1/1 green Snake creature token with deathtouch.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Moonveil Softplume enters the battlefield, choose one —
+When this creature enters the battlefield, choose one —
 • Target opponent discards a card.
 • Target opponent sacrifices an enchantment.</text>
     </card>
@@ -1279,7 +1234,7 @@ When Moonveil Softplume enters the battlefield, choose one —
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Up to two target creatures each get +2/+1 until end of turn. You gain 2 life.</text>
+      <text>Up to two target creatures each get +2/+2 until end of turn. You gain 2 life.</text>
     </card>
     <card>
       <name>Crimson Nectar</name>
@@ -1293,7 +1248,7 @@ When Moonveil Softplume enters the battlefield, choose one —
       </prop>
       <tablerow>3</tablerow>
       <text>Target player loses 2 life and you gain 2 life.
-Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Darkshot Assassin</name>
@@ -1308,7 +1263,7 @@ Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with �
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Darkshot Assassin enters, it gets +2/+0 until end of turn.</text>
+When this creature enters, it gets +2/+0 until end of turn.</text>
     </card>
     <card>
       <name>Smotherthorns</name>
@@ -1350,7 +1305,7 @@ Up to one target player can’t activate abilities of creatures they control unt
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Lanternwood Priestess enters, you may discard a card. When you do, target opponent discards a card.</text>
+      <text>When this creature enters, each player discards a card. Each opponent who doesn’t discard a nontoken card loses 2 life.</text>
     </card>
     <card>
       <name>Vulpishade</name>
@@ -1365,7 +1320,7 @@ Up to one target player can’t activate abilities of creatures they control unt
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever you gain life, conjure a Strength token into your hand. This ability triggers only once each turn. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Once each turn, whenever you gain life, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Scrutinous Retainer</name>
@@ -1408,22 +1363,7 @@ Whenever you attack with exactly two creatures, those creatures gain first strik
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature.
-Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
-    </card>
-    <card>
-      <name>Plumed Effigy</name>
-      <set rarity="common">BHES</set>
-      <prop>
-        <colors></colors>
-        <manacost>4</manacost>
-        <cmc>4</cmc>
-        <type>Artifact Creature - Scarecrow </type>
-        <maintype>Creature</maintype>
-        <pt>1/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>{T}: Add one mana of any colour.
-{2}, {T}: Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Bloomwhirl Retainer</name>
@@ -1454,21 +1394,6 @@ This creature gets +1/+1 and has flying as long as you’ve cast two or more spe
       <tablerow>2</tablerow>
       <text>First strike
 Whenever you attack with exactly two creatures, Dramatic Captain gains double strike until end of turn.</text>
-    </card>
-    <card>
-      <name>Veteran&apos;s Daisho</name>
-      <set rarity="common">BHES</set>
-      <prop>
-        <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature gets +2/+1.
-Equip Samurai or Soldier {1}
-Equip {3}</text>
     </card>
     <card>
       <name>Gardencourt Sharptongue</name>
@@ -1572,11 +1497,11 @@ Whenever Heartbleed Courtier attacks, it gets +X/+0, where X is the amount of li
         <cmc>3</cmc>
         <type>Creature - Human Soldier </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Newforce Stormbarrel enters, if you cast another spell this turn, tap up to one target creature and put a stun counter on it.
-Whenever you cast your second spell each turn, Newforce Stormbarrel deals 2 damage to target opponent.      </text>
+      <text>When this creature enters, if you cast two or more spells this turn, tap up to one target creature. It doesn’t untap during its controller’s next untap step.
+Whenever this creature attacks, if you cast two or more spells this turn, it deals 2 damage to defending player.       </text>
     </card>
     <card>
       <name>Polypetal Savant</name>
@@ -1607,7 +1532,7 @@ Conjure a Petal token into your hand.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Prattletooth Archivist enters, mill a card. You may play that card from your graveyard until your next end step.
-Whenever one or more cards leave your graveyard, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+Whenever one or more cards leave your graveyard, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Pinkrose Heartcatch</name>
@@ -1637,8 +1562,8 @@ Put up to one target card from your graveyard on the bottom of your library.</te
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Glasslens Sleuth gets +1/+1 as long as you control an artifact or an enchantment.
-Glasslens Sleuth can’t be blocked as long as an Invention you control reached {V} this turn.</text>
+      <text>This creature gets +1/+1 as long as you control an artifact or an enchantment.
+This creature can’t be blocked as long as the final chapter ability of a permanent you control resolved this turn.</text>
     </card>
     <card>
       <name>Wizened Tinkerer</name>
@@ -1654,7 +1579,7 @@ Glasslens Sleuth can’t be blocked as long as an Invention you control reached 
       <tablerow>2</tablerow>
       <text>Artifact and enchantment spells you cast cost {1} less to cast.
 --- 
-You may study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Ghostcreek Haunt</name>
@@ -1789,14 +1714,14 @@ Gardencourt Trainee and up to one other target creature each get +2/+1 until end
         <colors>R</colors>
         <manacost>2R</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Invention </type>
+        <type>Enchantment - Thesis </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
 Discard your hand.
-I — Draw two cards.
-II — Whenever you cast a nontoken spell this turn, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+Draw two cards.
+Whenever you cast a nontoken spell this turn, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
     </card>
     <card>
       <name>Sparkbarrel Aficionado</name>
@@ -1824,8 +1749,8 @@ II — Whenever you cast a nontoken spell this turn, conjure a Petal token into 
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Giganpalm Maiden enters, you may study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
-Giganpalm Maiden gets +2/+2 &amp; has trample as long as an Invention you control reached {V} this turn.</text>
+      <text>When this creature enters, revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)
+This creature gets +2/+2 &amp; has trample as long as the final chapter ability of a permanent you control resolved this turn.</text>
     </card>
     <card>
       <name>Tuftear Shortblade</name>
@@ -1870,7 +1795,7 @@ You may untap target creature you don’t control. If you do, that creature bloc
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Dookgear Duchess enters, you may study. (Put a lore counter on a permanent you control or discard a card to draw a card.)
+      <text>When this creature enters, revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)
 {T}, Exile a creature card from your graveyard: Create a tapped 1/1 red Ferret artifact creature token.</text>
     </card>
     <card>
@@ -1900,7 +1825,7 @@ When you next cast a nontoken instant or sorcery spell this turn, copy that spel
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your upkeep and whenever a creature enters under your control, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+      <text>At the beginning of your upkeep and whenever a creature enters under your control, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)
 Whenever you cast a noncreature spell, target creature you control gains trample until end of turn.</text>
     </card>
     <card>
@@ -1960,22 +1885,6 @@ Mill a card. You may play that card from your graveyard until your next end step
       <text>Creature spells you control and abilities of creatures you control can’t be countered this turn.
 Creatures you control gain hexproof until end of turn.
 If it’s your turn, draw a card.</text>
-    </card>
-    <card>
-      <name>Urbanization</name>
-      <set rarity="uncommon">BHES</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment - Invention </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>(As this Invention enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I, II — Reveal cards from the top of your library until you reveal a land card. Put that card on top and the rest on the bottom of your library in a random order.
-C — Draw a card.
-You may play an additional land this turn.</text>
     </card>
     <card>
       <name>Skittering Stratagem</name>
@@ -2063,7 +1972,7 @@ Other creatures you control with trample get +1/+1.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-When this creature enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+When this creature enters, conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)
 Whenever a creature you control with power greater than its base power attacks, you gain 2 life.</text>
     </card>
     <card>
@@ -2094,7 +2003,7 @@ When this creature enters, if you gained 3 or more life this turn, return up to 
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, deathtouch
-At the beginning of your end step, if you control a creature with power greater than its base power, you may conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)</text>
+At the beginning of your end step, if you control a creature with power greater than its base power, you may conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Thousandbud Cadet</name>
@@ -2153,7 +2062,7 @@ Whenever this creature attacks, you may discard a card. If you do, this creature
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Conjure two Strength tokens into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)
+      <text>Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)
 Destroy target creature or planeswalker if its mana value is less than or equal to the number of cards in your hand.</text>
     </card>
     <card>
@@ -2228,9 +2137,9 @@ At the beginning of your end step, if you gained life this turn, each opponent l
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-I — Target opponent discards a card. If they didn’t discard a nontoken card, they lose 2 life.
+Target opponent discards a card. If they didn’t discard a nontoken card, they lose 2 life.
 You draw a card and lose 1 life.
-II, L — Trigger either of this Thesis’s other chapter abilities.</text>
+Trigger either of this enchantment’s other chapter abilities.</text>
     </card>
     <card>
       <name>Citizen of the Night</name>
@@ -2275,7 +2184,7 @@ Whenever you discard a card, up to one target creature gets +1/+1 until end of t
       <tablerow>3</tablerow>
       <text>Choose one or both —
 • Destroy target enchantment. If it was a Thesis, you gain 2 life.
-• Study. (Put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+• Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Blades To Blooms</name>
@@ -2302,9 +2211,9 @@ Whenever you discard a card, up to one target creature gets +1/+1 until end of t
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
-When this Thesis enters, create a 1/1 white Soldier creature token.
+When this enchantment enters, create a 1/1 white Soldier creature token.
 Create a 1/1 white Soldier creature token.
-I, II, L — Creatures you control get +1/+1 until end of turn. Samurai and Soldiers you control get an additional +1/+0 until end of turn.</text>
+Creatures you control get +1/+1 until end of turn. Samurai and Soldiers you control get an additional +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Harbour Street Sentry</name>
@@ -2337,7 +2246,7 @@ When this creature enters, up to one other target creature gets +1/+1 until end 
       <text>When this creature enters, exile up to one target card from your graveyard.
 Whenever one or more cards leave your graveyard, choose one —
 • This creature gets +1/+1 until end of turn.
-• Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+1 until end of turn.”)              </text>
+• Conjure a Strength token into your hand. (It’s a sorcery that costs {2} with “Target creature gets +2/+2 until end of turn.”)</text>
     </card>
     <card>
       <name>Cherrypeak Farseer</name>
@@ -2441,8 +2350,8 @@ Whenever an artifact or enchantment enters under your control, you may put this 
       <tablerow>1</tablerow>
       <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
 Draw a card.
-I, II — When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
-C — Put a lore counter on any number of other target permanents you control.</text>
+When you next cast a nontoken instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Put a lore counter on any number of other target permanents you control.</text>
     </card>
     <card>
       <name>Ashwing Parliament</name>
@@ -2457,7 +2366,7 @@ C — Put a lore counter on any number of other target permanents you control.</
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, you may revise up to twice. (To revise, put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+When this creature enters, revise twice. (To revise, you may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
     </card>
     <card>
       <name>Truebeak Revelation</name>
@@ -2575,6 +2484,217 @@ Whenever this creature attacks, you may revise. (Put a lore counter on a permane
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your upkeep, conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>A Study of Modern Bladework</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Thesis </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Up to one target creature gets +1/+1 and gains first strike until end of turn.
+Up to one target creature gets +2/+2 and gains first strike until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>Modern Urban Planning</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Thesis </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Thesis enters and after your draw step, add a lore counter. After {V}, remove all counters.)
+Reveal cards from the top of your library until you reveal a land card. Put that card on top and the rest on the bottom of your library in a random order.
+Draw a card.
+You may play an additional land this turn.</text>
+    </card>
+    <card>
+      <name>Writ of Injunction</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+1 and gains hexproof until end of turn.
+Revise. (You may put a lore counter on a permanent you control or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>Cloudfloater Dirigible</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever this Vehicle enters or attacks, surveil 1.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Plumed Effigy</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Scarecrow </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+{T}: Add one mana of any colour.
+{2}, {T}: Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Roiling Ironsnake</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample
+When this artifact enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Crew 2</text>
+    </card>
+    <card>
+      <name>Hypergyric Astrolabe</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, draw a card.
+{1}, {T}, Sacrifice this artifact: Shuffle your graveyard and put it on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Cherry Division Tinsuit</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment  // </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has ward {2}.
+Equip {3}
+--- 
+</text>
+    </card>
+    <card>
+      <name>Adorned Blade</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+Equip Soldier or Samurai {1}
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Lumograph Contraption</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When this artifact enters, it deals 3 damage to up to one target creature.
+{T}, Sacrifice this artifact: Target creature you control gets +1/+1 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Autogear Puppet</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Toy  // </type>
+        <maintype>Creature</maintype>
+    <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+(Pay {5} as a sorcery to activate all your blossom abilities simultaneously.)
+--- 
+This creature can attack this turn as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Shimmerbloom Grotto</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}: Conjure a Petal token into your hand. (It’s an instant that costs {0} with “Add one mana of any colour.”)</text>
+    </card>
+    <card>
+      <name>Highfall Cityscape</name>
+      <set rarity="uncommon">BHES</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land enters, you may discard a card to search your library for a basic land card, reveal it and put it into your hand.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>One Way Ticket</name>
+      <set rarity="common">BHES</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or enchantment.
+Put up to one target card from your graveyard on the bottom of your library.</text>
     </card>
 
     <!-->Tokens</-->
